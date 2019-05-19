@@ -7159,6 +7159,39 @@
     from { background-position: 0px; }
     to { background-position: -992px; }
 }
+.Dota2Emoticons.aegis2019_png {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    display: inline-block;
+    background-image: url("../images/emoticons/aegis2019_png.png");
+
+    -webkit-animation: play-aegis2019_png 2.3s steps(23) infinite;
+    -moz-animation: play-aegis2019_png 2.3s steps(23) infinite;
+    -ms-animation: play-aegis2019_png 2.3s steps(23) infinite;
+    -o-animation: play-aegis2019_png 2.3s steps(23) infinite;
+    animation: play-aegis2019_png 2.3s steps(23) infinite;
+}
+@-webkit-keyframes play-aegis2019_png {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+@-moz-keyframes play-aegis2019_png {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+@-ms-keyframes play-aegis2019_png {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+@-o-keyframes play-aegis2019_png {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+@keyframes play-aegis2019_png {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
 .Dota2Emoticons.team_eg_png {
     width: 32px;
     height: 32px;
